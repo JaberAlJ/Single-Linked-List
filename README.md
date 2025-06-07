@@ -2,6 +2,8 @@
 
 This repository contains a robust and comprehensive implementation of Single Linked List operations using pure `Java`! No external packages were used, demonstrating a fundamental understanding of data structures.
 
+> Written by: [*JaberAlJ*](https://github.com/JaberAlJ)
+
 ---
 
 ## ✨ Operations ✨
